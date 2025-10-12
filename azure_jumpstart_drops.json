@@ -13,7 +13,7 @@
   "Type": "tutorial_guide",
   "Difficulty": "Medium",
   "ProgrammingLanguage": [
-    "C#"
+    ".NET/C#"
   ],
   "Products": [
     "Azure IoT Operations"
