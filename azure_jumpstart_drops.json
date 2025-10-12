@@ -13,12 +13,14 @@
   "Type": "tutorial_guide",
   "Difficulty": "Medium",
   "ProgrammingLanguage": [
-    ".NET/C#"
+    ".NET / C#"
   ],
   "Products": [
     "Azure IoT Operations"
   ],
   "LastModified": "2025-10-12T18:12:00.000Z",
   "CreatedDate": "2025-10-12T18:12:00.000Z",
-  "Topics": []
+  "Topics": [
+    "Industrial IoT"
+  ]
 }
