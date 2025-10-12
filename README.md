@@ -4,11 +4,8 @@
 
 ![Device](https://github.com/waltercoan/azurearcjumpstartdrops2025-opcuasimulator-aio/blob/main/imgs/dispositivo.jpg?raw=true "Device")
 
-This Jumpstart Drops provides a tutorial construct a [.NET Aspire application](https://learn.microsoft.com/pt-br/dotnet/aspire/get-started/aspire-overview?wt.mc_id=AZ-MVP-5003638) written in C# [.net 9](https://dotnet.microsoft.com/pt-br/download/dotnet/9.0?wt.mc_id=AZ-MVP-5003638), running on a Raspberry Pi ARM device, that simulate a OPC UA Server and generate telemetry data from a Home Brew equipement, to monitor temperatures, and send to [Azure IoT Operations](https://learn.microsoft.com/en-us/azure/iot-operations/overview-iot-operations?wt.mc_id=AZ-MVP-5003638). Than we process the data locally using AIO Data Flows, and send to [Azure Data Explorer](https://learn.microsoft.com/pt-br/azure/data-explorer/?wt.mc_id=AZ-MVP-5003638) to allow monitoring.
+This Jumpstart Drops provides a tutorial construct a [.NET Aspire application](https://learn.microsoft.com/pt-br/dotnet/aspire/get-started/aspire-overview?wt.mc_id=AZ-MVP-5003638) written in C# [.net 9](https://dotnet.microsoft.com/pt-br/download/dotnet/9.0?wt.mc_id=AZ-MVP-5003638), running on a Raspberry Pi ARM device, that simulate a OPC UA Server and generate telemetry data from a Home Brew equipment, to monitor temperatures, and send to [Azure IoT Operations](https://learn.microsoft.com/en-us/azure/iot-operations/overview-iot-operations?wt.mc_id=AZ-MVP-5003638). Than we process the data locally using AIO Data Flows, and send to [Azure Data Explorer](https://learn.microsoft.com/pt-br/azure/data-explorer/?wt.mc_id=AZ-MVP-5003638) to allow monitoring.
 
-### Demonstration 📺 Youtube
-
-[![Demonstration](https://img.youtube.com/vi/_BE27o_1SoA/0.jpg)](https://youtu.be/_BE27o_1SoA)
 
 ## Prerequisites
 
