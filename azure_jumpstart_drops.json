@@ -1,6 +1,6 @@
 {
   "Title": "OPC UA Server connected to AIO",
-  "Summary": "Tutorial to build a .NET Aspire application that simulate a OPC UA Server and generate telemetry data from a Home Brew equipement.",
+  "Summary": "Tutorial to build a .NET Aspire application that simulate a OPC UA Server and generate telemetry data from a Home Brew equipment.",
   "Description": "This Jumpstart Drops provides a tutorial construct a .NET Aspire application, running on a Raspberry Pi ARM device, that simulate a OPC UA Server and generate telemetry data from a Home Brew equipement, to monitor temperatures, and send to Azure IoT Operations. Than we process the data locally using AIO Data Flows, and send to Azure Data Explorer to allow monitoring.",
   "Cover": "https://github.com/waltercoan/azurearcjumpstartdrops2025-opcuasimulator-aio/blob/main/imgs/dispositivo.jpg",
   "Authors": [
